@@ -11,7 +11,7 @@ Some codes are copied from [Joao Henriques](https://www.robots.ox.ac.uk/~joao/) 
 
 [II]:cdcf.m + vot.m + other functions
 ### tips
-1.This demo entry support both gpu and cpu mode, which can be swithed in demo.m. But make sure that you have compiled the corresponding Matconvnet support, this matters.
+1.This demo entry supports both gpu and cpu mode, which can be swithed in demo.m. But make sure that you have compiled the corresponding Matconvnet support, which matters.
 
 2.All functions are given, just copy it into a new folder.
 
